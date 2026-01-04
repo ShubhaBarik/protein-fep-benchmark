@@ -1,6 +1,6 @@
 # Protein Binding FEP+ Benchmark
 
-Data and analysis scripts for Sampson, J. M. et al. "Robust prediction of relative binding energies for protein-protein complex mutations using free energy perturbation calculations."  J. Mol. Biol. 436, 168640 (2024). [https://doi.org/10.1016/j.jmb.2024.168640]()
+Data and analysis scripts for Sampson, J. M. et al. "Robust prediction of relative binding energies for protein-protein complex mutations using free energy perturbation calculations."  J. Mol. Biol. 436, 168640 (2024). [https://doi.org/10.1016/j.jmb.2024.168640](https://www.sciencedirect.com/science/article/abs/pii/S0022283624002353?via%3Dihub)
 
 
 The following analysis was performed on the systems in the paper.
